@@ -1,2 +1,2 @@
 # Gigaland
-(Live Reviwe)[https://homos2003.github.io/Gigaland/]
+[Live Reviwe] (https://homos2003.github.io/Gigaland/)
