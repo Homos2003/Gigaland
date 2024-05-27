@@ -346,11 +346,13 @@ a {
 
 .landing .container .content img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 /* Start Responsive Landing */
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .landing .container .content img {
     display: none;
   }
